@@ -1,0 +1,4 @@
+id,fid,filename,filepath,uri,title
+1,1,1.jpg,/var/www/drupal/web/sites/default/files/migration_images/1.jpg,public://images/artwork/schwegler/1.jpg,Image 1
+2,2,2.jpg,/var/www/drupal/web/sites/default/files/migration_images/2.jpg,public://images/artwork/schwegler/2.jpg,Image 2
+3,3,3.jpg,/var/www/drupal/web/sites/default/files/migration_images/3.jpg,public://images/artwork/schwegler/3.jpg,Image 3
