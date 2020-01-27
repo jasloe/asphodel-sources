@@ -1,0 +1,63 @@
+ids,filename,filepath,uri,artist,title,year_start,year_end,material,dims_h_in,dims_w_in,dims_d_in,dims_h_cm,dims_w_cm,dims_d_cm,dims,price,artsy,price
+1001,,,,Jeff Kraus,MBTS-1,2018,,"acrylic, spray paint on panel",16,12,1.5,40.64,30.48,3.81,,1900,,1900
+1002,,,,Jeff Kraus,MBTS-2,2018,,"acrylic, spray paint on canvas",44,33,1.5,111.76,83.82,3.81,,3100,,3100
+1003,,,,Jeff Kraus,MBTS-3,2018,,"acrylic, spray paint on canvas",36,30,1.5,91.44,76.2,3.81,,2700,,2700
+1004,,,,Jeff Kraus,MBTS-4,2018,,"acrylic, spray paint on canvas",40,38,1.5,101.6,96.52,3.81,,2900,,2900
+1005,,,,Jeff Kraus,MBTS-5,2019,,"acrylic, spray paint on panel",16,12,1.5,40.64,30.48,3.81,,1900,,1900
+1006,,,,Jeff Kraus,MBTS-6,2019,,"acrylic, spray paint on canvas",14,12,1.5,35.56,30.48,3.81,,1600,,1600
+1007,,,,Jeff Kraus,MBTS-7,2019,,"acrylic, spray paint on canvas",14,12,1.5,35.56,30.48,3.81,,1600,,1600
+1008,,,,Jeff Kraus,MBTS-9,2019,,"acrylic, spray paint on canvas",14,12,1.5,35.56,30.48,3.81,,1600,,1600
+1009,,,,Jeff Kraus,MBTS-10,2019,,"acrylic, spray paint on canvas",14,12,1.5,35.56,30.48,3.81,,1600,,1600
+1010,,,,Clary Stolte,Transparent depth surface,2019,,glue and fabric on frame,11.81,9.45,,30,24,,,1600,,1600
+1011,,,,Clary Stolte,Transparent depth surface,2018,,fusible interface on frame,11.81,9.45,,30,24,,,1600,,1600
+1012,,,,Clary Stolte,Plastic volume surface 3,2017,2019,plastic tape,9.45,9.45,,24,24,,,1500,,1500
+1013,,,,Clary Stolte,Perforated volume surface 5,2011,,paper,9.45,9.45,,24,24,,,1500,,1500
+1014,,,,Clary Stolte,Density #2,,,quilting filler ,13.78,17.72,,35,45,,,950,,950
+1015,,,,Clary Stolte,Flat files - white #4,,,acrylic paint on tracing paper ,11.02,11.42,,28,29,,,1500,,1500
+1016,ns-ntd-0008-buttered-beauty.jpg,,,Nicholas Szymanksi,Buttered Beauty,2018,,acrylic on found fabric ove panel,8,10,,20.32,25.4,,,700,https://www.artsy.net/artwork/nicholas-szymanski-buttered-beauty,700
+1017,ns-ntd-0007-care-itself.jpg,,,Nicholas Szymanksi,Care Itself is Permeated With Nullity Through and Through,2018,,"acrylic, mica on canvas over panel",20,16,,50.8,40.64,,,1200,https://www.artsy.net/artwork/nicholas-szymanski-care-itself-is-permeated-with-nullity-through-and-through,1200
+1018,,,,Nicholas Szymanksi,City on a Hill,2018,,"oil, acrylic on canvas over panel",16,12,,40.64,30.48,,,1000,,1000
+1019,ns-ntd-0004-colour-picture.jpg,,,Nicholas Szymanksi,Colour Picture,2018,,"acrylic, mica on canvas over panel",16,12,,40.64,30.48,,,1000,https://www.artsy.net/artwork/nicholas-szymanski-color-picture,1000
+1020,,,,Nicholas Szymanksi,Coupe,2018,,"oil, acrylic on canvas over panel",12,9,,30.48,22.86,,,800,,800
+1021,ns-ntd-0005-dead-in-a-boat.jpg,,,Nicholas Szymanksi,Dead in a Boat,2013,2018,"acrylic, sawdust on panel",10,8,,25.4,20.32,,,700,https://www.artsy.net/artwork/nicholas-szymanski-dead-in-a-boat,700
+1022,ns-ntd-0003-evening-painting.jpg,,,Nicholas Szymanksi,Evening Painting,2013,2018,"acrylic, sawdust on panel",10,8,,25.4,20.32,,,700,https://www.artsy.net/artwork/nicholas-szymanski-evening-painting,700
+1023,,,,Nicholas Szymanksi,Gray Square,2018,,acrylic on muslin over panel,12,12,,30.48,30.48,,,800,https://www.artsy.net/artwork/nicholas-szymanski-gray-square,800
+1024,ns-nts-0010-inside-the-mountain.jpg,,,Nicholas Szymanksi,Inside the Mountain,2018,,acrylic on canvas over panel,20,16,,50.8,40.64,,,1200,https://www.artsy.net/artwork/nicholas-szymanski-inside-the-mountain,1200
+1025,ns-ntd-0011-irrational-matter.jpg,,,Nicholas Szymanksi,Irrational Matter,2018,,"oil, acrylic on canvas over panel",11,14,,27.94,35.56,,,900,https://www.artsy.net/artwork/nicholas-szymanski-irrational-matter,900
+1026,ns-ntd-0012-singing.jpg,,,Nicholas Szymanksi,Let Me Tell You About Singing,2017,2018,"oil, acrylic on canvas over panel",16,12,,40.64,30.48,,,1000,https://www.artsy.net/artwork/nicholas-szymanski-let-me-tell-you-about-singing,1000
+1027,ns-ntd-0013-light-sleeper.jpg,,,Nicholas Szymanksi,Light Sleeper,2017,2018,"oil, acrylic on canvas over panel",16,12,,40.64,30.48,,,1000,https://www.artsy.net/artwork/nicholas-szymanski-light-sleeper,1000
+1028,ns-ntd-0014-moving-through.jpg,,,Nicholas Szymanksi,Moving Through a Place,2018,,acrylic on canvas over panel,12,9,,30.48,22.86,,,800,https://www.artsy.net/artwork/nicholas-szymanski-moving-through-a-place,800
+1029,ns-ntd-0016-mute-queen.jpg,,,Nicholas Szymanksi,Mute Queen,2018,,acrylic on panel,10,10,,25.4,25.4,,,700,https://www.artsy.net/artwork/nicholas-szymanski-mute-queen,700
+1030,ns-ntd-0017-practice.jpg,,,Nicholas Szymanksi,Practice Like Anything Else,2017,2018,acrylic on muslin over panel,16,12,,40.64,30.48,,,1000,https://www.artsy.net/artwork/nicholas-szymanski-practice-like-anything-else,1000
+1031,ns-ntd-0018-quixotic.jpg,,,Nicholas Szymanksi,Quixotic Fantasy,2018,,oil on linen over panel,18,18,,45.72,45.72,,,1200,https://www.artsy.net/artwork/nicholas-szymanski-quixotic-fantasy,1200
+1032,ns-ntd-0019-raum.jpg,,,Nicholas Szymanksi,Raum,2018,,"oil, acrylic on canvas over panel",20,16,,50.8,40.64,,,1200,https://www.artsy.net/artwork/nicholas-szymanski-raum,1200
+1033,ns-ntd-0020-serious.jpg,,,Nicholas Szymanksi,Serious (Not Too Serious),2018,,"oil, acrylic on canvas over panel",11,14,,27.94,35.56,,,900,https://www.artsy.net/artwork/nicholas-szymanski-serious-not-too-serious,900
+1034,ns-ntd-0001-seneca.jpg,public://migrations//ns-ntd-0001-seneca.jpg,public://images/artwork/ns-ntd-0001-seneca.jpg,Nicholas Szymanksi,The Date of Seneca's Birth is Unknown,2018,,"oil, acrylic on canvas over panel",16,12,,40.64,30.48,,,1000,https://www.artsy.net/artwork/nicholas-szymanski-the-date-of-senecas-birth-is-unknown,1000
+1035,ns-ntd-0022-variations.jpg,,,Nicholas Szymanksi,Varitions of Paynes Gray,2018,,acrylic on muslin over panel,12,12,,30.48,30.48,,,800,https://www.artsy.net/artwork/nicholas-szymanski-varitions-of-paynes-gray,800
+1036,,,,Stan Van Steendam,luz I,2018,,"polished car varnish, pigments, plaster on wooden construction",18.5,25.79,2.17,47,65.5,5.5,,7000,,7000
+1037,,,,Stan Van Steendam,luz II,2018,,"polished car varnish, pigments, plaster on wooden construction",25.2,34.65,2.76,64,88,7,,8500,,8500
+1038,,,,Stan Van Steendam,plain,2018,,"polished car varnish, pigments, plaster on board",7.68,9.45,4.13,19.5,24,10.5,,1800,,1800
+1039,,,,Stan Van Steendam,untitled,2018,,"pigments, plaster and epoxy on wood",3.15,4.33,2.56,8,11,6.5,,800,,800
+1040,,,,Stan Van Steendam,untitled,2018,,"pigments, plaster and epoxy on wood",3.15,4.33,2.56,8,11,6.5,,800,,800
+1041,,,,Stan Van Steendam,blue in black,2018,,"polished car varnish, pigments, plaster on board",6.69,9.84,2.17,17,25,5.5,,1400,,1400
+1042,,,,Stan Van Steendam,plain,2018,,"polished car varnish, pigments, plaster on board",9.65,12.99,1.77,24.5,33,4.5,,2500,,2500
+1043,,,,Stan Van Steendam,cinzento II,2018,,"polished car varnish, pigments, plaster on board",11.02,14.96,1.77,28,38,4.5,,3000,,3000
+1044,,,,Stan Van Steendam,"four grey (part A, B, C, D)",2018,,"polished car varnish, pigments, plaster on board",19.69,26.38,1.77,50,67,4.5,,7200,,7200
+1045,,,,Stan Van Steendam,cinzento III,2018,,"polished car varnish, pigments, plaster on board",9.84,13.19,1.57,25,33.5,4,,2500,,2500
+1046,,,,Stan Van Steendam,cinzento IV,2018,,"polished car varnish, pigments, plaster on board",9.65,13.39,1.57,24.5,34,4,,2500,,2500
+1047,,,,Stan Van Steendam,cinzento V,2018,,"polished car varnish, pigments, plaster on board",9.84,13.19,1.77,25,33.5,4.5,,2500,,2500
+1048,,,,Stan Van Steendam,blue in white,2018,,"polished car varnish, pigments, plaster on board",9.84,13.19,1.77,25,33.5,4.5,,2500,,2500
+1049,,,,Stan Van Steendam,untitled,2017,,"pigments, jute, plaster and epoxy on wood",8.66,11.02,4.33,22,28,11,,2200,,2200
+1050,,,,Stan Van Steendam,untitled,2017,,"pigments, jute, plaster and epoxy on wood",12.6,10.24,4.33,32,26,11,,3000,,3000
+1053,ns-inv-0001-scrap-or-die.jpg,,,Nicholas Szymanksi,Scrap or Die,2017,2019,oil and acrylic on canvas over panel,10,8,,25.4,20.32,,,,,
+1054,ns-inv-0002-untitled-gray-1.jpg,,,Nicholas Szymanksi,Untitled (Gray) 1,2017,,oil and acrylic on canvas over panel,12,16,,30.48,40.64,,,,,
+1055,ns-inv-0003-untitled.jpg,,,Nicholas Szymanksi,Untitled,2018,,oil and acrylic on canvas,16,20,,40.64,50.8,,,,,
+1056,ns-inv-0004-without-words.jpg,,,Nicholas Szymanksi,Without Words,2017,2019,oil and acrylic on canvas,14,10,,35.56,25.4,,,,,
+,ns-1001-damaged-sleep-f.jpg,,,Nicholas Szymanksi,Damaged Sleep,2019,,acrylic on muslin over panel,8,16,,20.32,40.64,,,,,
+,ns-1002-fifteen-hour-dreams-f.jpg,,,Nicholas Szymanksi,Fifteen Hour Dreams,2018,2019,"oil, acrylic on canvas over panel",20,16,,50.8,40.64,,,,,
+,ns-1003-freedom-to-dissolve-f.jpg,,,Nicholas Szymanksi,Freedom To Dissolve,2019,,acrylic on muslin over panel,8,16,,20.32,40.64,,,,,
+,ns-1004-june-hare-oil-f.jpg,,,Nicholas Szymanksi,June Hare,2019,,"oil, acrylic on found fabric over panel",10,10,,25.4,25.4,,,,,
+,ns-1005-leaves-clapping-f.jpg,,,Nicholas Szymanksi,Leaves Clapping,2018,2019,"oil, acrylic on panel",10,8,,25.4,20.32,,,,,
+,ns-1006-peeling-potatoes-f.jpg,,,Nicholas Szymanksi,Peeling Potatoes,2018,2019,"oil, acrylic on canvas over panel",16,12,,40.64,30.48,,,,,
+,ns-1007-the-clouds-didn't-look-like-cotton-f.jpg,,,Nicholas Szymanksi,The Clouds Didn't Look Like Cotton,2018,2019,"oil,acrylic on canvas over panel",14,11,,35.56,27.94,,,,,
+,ns-1008-untitled-blue-f.jpg,,,Nicholas Szymanksi,Untitled (Blue),2017,,oil on canvas over panel,16,20,,40.64,50.8,,,,,
